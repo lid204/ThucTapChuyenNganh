@@ -41,7 +41,8 @@
 
 4. **Chạy dự án:**
    - Mở trình duyệt truy cập: `http://localhost/booktoheal`
-   - Tài khoản Admin mặc định (nếu có): `admin` / `123456`
+   - Tài khoản Admin mặc định : `dh52201162` / `lid262004`
 
 ## 5. Liên hệ
+
 Mọi thắc mắc vui lòng liên hệ qua email: dh52201162@student.stu.edu.vn
